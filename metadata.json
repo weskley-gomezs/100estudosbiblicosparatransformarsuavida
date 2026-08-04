@@ -1,0 +1,6 @@
+{
+  "name": "100 Estudos Bíblicos Para Transformar Sua Vida",
+  "description": "Página de vendas de alta conversão para o ebook 100 Estudos Bíblicos Para Transformar Sua Vida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
